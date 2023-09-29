@@ -3,28 +3,14 @@ sidebar_position: 1
 slug: /
 ---
 
-# Shuddle's documentation
+# Shuddle
 
-Let's discover **Shuddle in less than 5 minutes**.
+![Shuddle logo](https://shuddle.xyz/images/logos/logo_light.svg)
 
-## Styling components
+## Introduction
 
-Texte en gras: **texte en gras**.
+_Texte d'introduction pour raconter ce qu'on veut._
 
-Texte en couleur: **[docusaurus.new](https://docusaurus.new)**.
+**Elevate your community with Shuddle: unique tools designed for fun and engagement.**
 
-Liste à puce:
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-Code:
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla venenatis mauris, quis lacinia arcu venenatis ac. Etiam commodo iaculis velit a consectetur. Ut ac sodales odio. Sed placerat augue nisi, eu tincidunt nisi lacinia quis. Donec in pretium sapien, quis scelerisque leo. Nullam quis nibh massa. Integer laoreet non urna sit amet commodo. Nam gravida volutpat eros. Fusce orci lectus, rhoncus eu commodo ut, porttitor sed dolor.
